@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChessBoard">
+        <attr name="max_chess" format="integer" />
+        <attr name="winnumer" format="integer" />
+    </declare-styleable>
+</resources>
